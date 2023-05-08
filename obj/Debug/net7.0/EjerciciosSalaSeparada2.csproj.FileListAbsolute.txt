@@ -1,0 +1,15 @@
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\bin\Debug\net7.0\EjerciciosSalaSeparada2.exe
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\bin\Debug\net7.0\EjerciciosSalaSeparada2.deps.json
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\bin\Debug\net7.0\EjerciciosSalaSeparada2.runtimeconfig.json
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\bin\Debug\net7.0\EjerciciosSalaSeparada2.dll
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\bin\Debug\net7.0\EjerciciosSalaSeparada2.pdb
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.csproj.AssemblyReference.cache
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.AssemblyInfoInputs.cache
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.AssemblyInfo.cs
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.csproj.CoreCompileInputs.cache
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.dll
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\refint\EjerciciosSalaSeparada2.dll
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.pdb
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\EjerciciosSalaSeparada2.genruntimeconfig.cache
+E:\Curso Cloud Developing\Proyectos Curso EOI\Ejercicios_C#\EjerciciosSalaSeparada2\obj\Debug\net7.0\ref\EjerciciosSalaSeparada2.dll
