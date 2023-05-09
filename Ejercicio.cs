@@ -19,7 +19,10 @@ namespace EjerciciosSalaSeparada2
 
                 if (int.TryParse(Console.ReadLine(), out num))
                 {
-                    lista.Add(num);
+                    if(num != 0)
+                    {
+                        lista.Add(num);
+                    }
                 }
                 else
                 {
