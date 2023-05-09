@@ -10,11 +10,24 @@ namespace EjerciciosSalaSeparada2
     {
         public Anagrama()
         {
-            string palabra1 = "roma";
-            string palabra2 = "amor";
+            string? palabra1 = "";
+            string? palabra2 = "";
 
-            char[] letras1 = palabra1.ToLower().ToCharArray();
-            char[] letras2 = palabra2.ToLower().ToCharArray();
+            Console.Write("Escribe la primera palabra: ");
+            palabra1 = Console.ReadLine();
+
+            Console.Write("Escribe la segunda palabra: ");
+            palabra2 = Console.ReadLine();
+
+            char[] letras1 = {};
+            char[] letras2 = {};
+
+            if(palabra1 is not null && palabra2 is not null)
+            {
+                letras1 = palabra1.ToLower().ToCharArray();
+                letras2 = palabra2.ToLower().ToCharArray();
+            }
+            
 
             Array.Sort(letras1);
             Array.Sort(letras2);

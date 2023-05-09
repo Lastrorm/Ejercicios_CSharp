@@ -18,6 +18,7 @@ namespace EjerciciosSalaSeparada2
 
             while (numeroUsuario != numeroAleatorio)
             {
+                Console.Clear();
                 Console.WriteLine("Adivina el número (entre 1 y 100):");
                 if (!int.TryParse(Console.ReadLine(), out numeroUsuario))
                 {

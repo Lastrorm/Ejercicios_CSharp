@@ -45,7 +45,7 @@ namespace EjerciciosSalaSeparada2
                 cadena = Console.ReadLine();
                 if(cadena != "")
                 {
-                    lista.Add(cadena);
+                    lista.Add(cadena!);
                 }
 
             } while (cadena != "");

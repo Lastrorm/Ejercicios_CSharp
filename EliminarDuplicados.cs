@@ -23,7 +23,7 @@ namespace EjerciciosSalaSeparada2
             }
 
             Console.WriteLine("Números originales: " + string.Join(", ", numeros));
-            Console.WriteLine("Números originales: " + string.Join(", ", numeros));
+            Console.WriteLine("Números sin duplicados: " + string.Join(", ", numerosSinDuplicados));
 
             Console.Write("Pulsa una tecla para continuar...");
             Console.ReadKey();
