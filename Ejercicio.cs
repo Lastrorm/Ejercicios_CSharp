@@ -43,6 +43,10 @@ namespace EjerciciosSalaSeparada2
 
                 Console.Write("Inserta una cadena de caracteres (Deja vacío para terminar): ");
                 cadena = Console.ReadLine();
+                if(cadena != "")
+                {
+                    lista.Add(cadena);
+                }
 
             } while (cadena != "");
 
