@@ -34,7 +34,7 @@ namespace EjerciciosSalaSeparada2
         public List<string> PedirListaString()
         {
             List<string> lista = new List<string>();
-            string cadena;
+            string? cadena;
             do
             {
 
