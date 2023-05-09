@@ -10,7 +10,7 @@ namespace EjerciciosSalaSeparada2
     {
         public ParImpar()
         {
-            int numero = 0;
+            int numero;
             Console.Write("Ingrese un número entero: ");
             if (int.TryParse(Console.ReadLine(), out numero))
                 if (numero % 2 == 0)
